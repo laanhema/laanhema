@@ -1,4 +1,4 @@
-## Hi there, I'm Lauri!👋
+## Hi there, I'm Lauri! 👋
 
 - Currently studying to become a Bachelor in Business Information Technology at JAMK
 - Interested in web-dev !
@@ -14,6 +14,10 @@
 ## Used operating systems ⚙️
 
 [![Used OS](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+
+## Achieved badges 🏅
+
+<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations badge" width="100"/>
 
 <!--
 **laanhema/laanhema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
