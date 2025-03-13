@@ -1,10 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Lauri!👋
 
-### About me
+- Currently studying to become a Bachelor in Business Information Technology at JAMK
+- Interested in web-dev !
 
-### My skills
+## My skills⚡
 
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws&perline=6)](https://skillicons.dev)
 
+## Used IDEs 🔧
+
+[![Used IDE](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse)](https://skillicons.dev)
+
+## Used operating systems ⚙️
+
+[![Used OS](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 <!--
 **laanhema/laanhema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
