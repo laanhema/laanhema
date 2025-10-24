@@ -10,13 +10,13 @@
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
 
-## Used IDEs 🔧
+## IDEs 🔧
 
 [![Used IDE](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse)](https://skillicons.dev)<br>
 
 - _Visual Studio Code, Visual Studio, Eclipse_
 
-## Used operating systems ⚙️
+## Operating systems ⚙️
 
 [![Used OS](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
