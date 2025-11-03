@@ -2,7 +2,7 @@
 
 - Currently studying to become a Bachelor in Business Information Technology at JAMK
 - Interested in web-dev !
-- Linux enthusiast (right now running Fedora 42 Workstation with i3wm)
+- Linux enthusiast (right now running Fedora 43 Workstation with i3wm)
 
 ## My skills⚡
 
