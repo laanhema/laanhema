@@ -4,7 +4,7 @@
 - Currently studying to become a Bachelor in Business Information Technology at JAMK
 - Interested in web-development (both frontend and backend) & databases !
 
-## Some of my projects 😎
+## My projects 😎
 
 - [**Froots Smoothie App**](https://github.com/jamktiko/smoothie_testi) - Svelte, TypeScript, Tailwind - [link to website](https://froots-smoothies.netlify.app/)
 - [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
