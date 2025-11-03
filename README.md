@@ -4,6 +4,13 @@
 - Currently studying to become a Bachelor in Business Information Technology at JAMK
 - Interested in web-development (both frontend and backend) & databases !
 
+## Some of my projects 😎
+
+- [**Froots Smoothie App**](https://github.com/jamktiko/smoothie_testi) - Svelte, TypeScript, Tailwind - [link to website](https://froots-smoothies.netlify.app/)
+- [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
+- [**BandBuddy**](https://github.com/laanhema/bandbuddy) - Java
+- [**Folder Comparer**](https://github.com/laanhema/foldercomparer) - C#
+
 ## My skills⚡
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify&perline=6)](https://skillicons.dev)<br>
@@ -34,7 +41,7 @@
 
 <!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest)](https://skillicons.dev) -->
 
-I would like to learn these:
+I would like to learn:
 
 - React
 - Python
