@@ -1,29 +1,50 @@
 ## Hi there, I'm Lauri! 👋
 
+- Linux enthusiast (at the moment using Fedora 43 Workstation with i3/GNOME)
 - Currently studying to become a Bachelor in Business Information Technology at JAMK
-- Interested in web-dev !
-- Linux enthusiast (right now running Fedora 43 Workstation with i3wm)
+- Interested in web-development (both frontend and backend) & databases !
 
 ## My skills⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify&perline=6)](https://skillicons.dev)<br>
 
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
+- _Linux, Tailwind, Bootstrap, Vercel, Netlify_
 
-## IDEs 🔧
+## Editors 🔧
 
-[![Used IDE](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse)](https://skillicons.dev)<br>
+[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime)](https://skillicons.dev)<br>
 
-- _Visual Studio Code, Visual Studio, Eclipse_
+- _Visual Studio Code (mainly using this), Visual Studio, Eclipse, Sublime Text_
 
 ## Operating systems ⚙️
 
-[![Used OS](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+[![Operating systems](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
 
 ## Achieved badges 🏅
 
 <img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations badge" width="100"/>
+
+## I'm currently learning... 🧐
+
+- **Angular**
+- **Relational databases & MySQL**
+- **Vitest & Cypress for testing**
+
+<!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest)](https://skillicons.dev) -->
+
+I would like to learn these:
+
+- React
+- Python
+- Neovim 😱 (learning Vim motions could be useful)
+
+<!-- [![Used OS](https://skillicons.dev/icons?i=react,py,neovim)](https://skillicons.dev) -->
+
+<!-- eventually mby add these if I'm confident enough -->
+
+<!-- [![Used OS](https://skillicons.dev/icons?i=docker,bash)](https://skillicons.dev) -->
 
 <!--
 **laanhema/laanhema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
