@@ -13,11 +13,11 @@
 
 ## My skills⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql&perline=6)](https://skillicons.dev)<br>
 
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
-- _Linux, Tailwind, Bootstrap, Vercel, Netlify_
+- _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
 
 ## Editors 🔧
 
@@ -36,7 +36,6 @@
 ## I'm currently learning... 🧐
 
 - **Angular**
-- **Relational databases & MySQL**
 - **Vitest & Cypress for testing**
 
 <!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest)](https://skillicons.dev) -->
