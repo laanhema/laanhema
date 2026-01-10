@@ -13,11 +13,12 @@
 
 ## My skills⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions&perline=6)](https://skillicons.dev)<br>
 
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
 - _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
+- _Vitest, Cypress, GitHub Actions_
 
 ## Editors 🔧
 
@@ -36,15 +37,18 @@
 ## I'm currently learning... 🧐
 
 - **Angular**
-- **Vitest & Cypress for testing**
+<!-- - **Less**
+- **Taiga UI** -->
+<!-- - **Vitest & Cypress for testing** -->
 
-<!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest)](https://skillicons.dev) -->
+<!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest,aws)](https://skillicons.dev) -->
 
 I would like to learn:
 
 - React
 - Python
-- Neovim 😱 (learning Vim motions could be useful)
+
+<!-- - Neovim 😱 (learning Vim motions could be useful) -->
 
 <!-- [![Used OS](https://skillicons.dev/icons?i=react,py,neovim)](https://skillicons.dev) -->
 
