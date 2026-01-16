@@ -6,6 +6,7 @@
 
 ## My projects 😎
 
+- [**Tralla**](https://github.com/laanhema/tralla) - Angular, Taiga UI, NgRx SignalStore
 - [**Froots Smoothie App**](https://github.com/jamktiko/smoothie_testi) - Svelte, TypeScript, Tailwind - [link to website](https://froots-smoothies.netlify.app/)
 - [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
 - [**BandBuddy**](https://github.com/laanhema/bandbuddy) - Java
@@ -13,12 +14,12 @@
 
 ## My skills⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular&perline=6)](https://skillicons.dev)<br>
 
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
 - _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
-- _Vitest, Cypress, GitHub Actions_
+- _Vitest, Cypress, GitHub Actions, Angular_
 
 ## Editors 🔧
 
@@ -36,7 +37,9 @@
 
 ## I'm currently learning... 🧐
 
-- **Angular**
+- **Backend development**
+- **Mobile development**
+- **NoSQL databases**
 <!-- - **Less**
 - **Taiga UI** -->
 <!-- - **Vitest & Cypress for testing** -->
