@@ -44,7 +44,6 @@
 <!-- - **Vitest & Cypress for testing** -->
 
 <!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest,aws)](https://skillicons.dev) -->
-<br>
 
 I would like to learn:
 
