@@ -1,8 +1,8 @@
 ## Hi there, I'm Lauri! 👋
 
 - Linux enthusiast (at the moment using Fedora 43 Workstation with i3/GNOME)
-- Currently studying to become a Bachelor in Business Information Technology at JAMK
-- Interested in web-development (both frontend and backend) & databases !
+- Second year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
+- Ambitious coder who is interested in web-development (both frontend and backend) & databases !
 
 ## My projects 😎
 
@@ -14,12 +14,12 @@
 
 ## My skills⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb&perline=6)](https://skillicons.dev)<br>
 
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
 - _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
-- _Vitest, Cypress, GitHub Actions, Angular_
+- _Vitest, Cypress, GitHub Actions, Angular, MongoDB_
 
 ## Editors 🔧
 
@@ -39,17 +39,19 @@
 
 - **Backend development**
 - **Mobile development**
-- **NoSQL databases**
 <!-- - **Less**
 - **Taiga UI** -->
 <!-- - **Vitest & Cypress for testing** -->
 
 <!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest,aws)](https://skillicons.dev) -->
+<br>
 
 I would like to learn:
 
 - React
 - Python
+
+<!-- [![future_skills](https://skillicons.dev/icons?i=react,py,express,vue,vite,tensorflow,sequelize,rust,ruby,redis,rails,postman,postgres,nginx,neovim,lua,less,htmx,graphql,godot,flutter,firebase,fastapi,electron,dotnet,django,dart,androidstudio)](https://skillicons.dev)<br> -->
 
 <!-- - Neovim 😱 (learning Vim motions could be useful) -->
 
