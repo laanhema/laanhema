@@ -1,8 +1,8 @@
-## Hi there, I'm Lauri! 👋
+## Hi there, I'm Lauri! 👋 I am...
 
-- Linux enthusiast (at the moment using Fedora 43 Workstation with i3/GNOME)
 - Second year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
-- Ambitious coder who is interested in web-development (both frontend and backend) & databases !
+- Linux enthusiast (at the moment using Fedora 43 Workstation with i3/GNOME)
+- Ambitious coder who is interested in FullStack web-development & databases !
 
 ## My projects 😎
 
@@ -14,18 +14,18 @@
 
 ## My skills⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb,express&perline=6)](https://skillicons.dev)<br>
 
 - _C#, Java, Regex, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
 - _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
-- _Vitest, Cypress, GitHub Actions, Angular, MongoDB_
+- _Vitest, Cypress, GitHub Actions, Angular, MongoDB, Express_
 
 ## Editors 🔧
 
-[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,sublime)](https://skillicons.dev)<br>
+[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)<br>
 
-- _Visual Studio Code (mainly using this), Visual Studio, Eclipse, Sublime Text_
+- _Visual Studio Code (mainly using this), Visual Studio_
 
 ## Operating systems ⚙️
 
