@@ -1,16 +1,16 @@
-## Hi there, I'm Lauri! 👋 I am...
+## Hi there, I'm Lauri! 👋 I am:
 
 - Second year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
 - Linux enthusiast (at the moment using Fedora 43 Workstation with i3/GNOME)
-- Ambitious coder who is interested in FullStack web-development & databases !
+- Ambitious coder who is interested in Full Stack web-development & databases !
 
 ## My projects 😎
 
+- [**GymBro App**](https://github.com/jamktiko/gymbroapp) - Angular + Ionic Frontend, Express REST API Backend, MongoDB - [link to .apk](https://staticwebsiteforgymbroapp.s3.eu-north-1.amazonaws.com/index.html)
 - [**Tralla**](https://github.com/laanhema/tralla) - Angular, Taiga UI, NgRx SignalStore
 - [**Froots Smoothie App**](https://github.com/jamktiko/smoothie_testi) - Svelte, TypeScript, Tailwind - [link to website](https://froots-smoothies.netlify.app/)
 - [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
 - [**BandBuddy**](https://github.com/laanhema/bandbuddy) - Java
-- [**Folder Comparer**](https://github.com/laanhema/foldercomparer) - C#
 
 ## My skills⚡
 
