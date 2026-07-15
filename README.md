@@ -1,8 +1,8 @@
 ## Hi there, I'm Lauri! 👋 I am:
 
 - Second year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
-- Linux enthusiast (at the moment using Fedora 43 Workstation with i3/GNOME)
-- Ambitious coder who is interested in Full Stack web-development & databases !
+- Linux native - daily driving Fedora 44 Workstation with i3wm
+- Ambitious developer who is interested in Full Stack web-development, Agentic AI tools & databases !
 
 ## My projects 😎
 
@@ -12,7 +12,7 @@
 - [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
 - [**BandBuddy**](https://github.com/laanhema/bandbuddy) - Java
 
-## My skills⚡
+## My skills ⚡
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb,express&perline=6)](https://skillicons.dev)<br>
 
@@ -37,8 +37,9 @@
 
 ## I'm currently learning... 🧐
 
-- **Backend development**
-- **Mobile development**
+- **React**
+- **Python**
+- **Agentic Software Development**
 <!-- - **Less**
 - **Taiga UI** -->
 <!-- - **Vitest & Cypress for testing** -->
@@ -47,8 +48,10 @@
 
 I would like to learn:
 
-- React
-- Python
+- Kubernetes
+
+<!-- - React -->
+<!-- - Python -->
 
 <!-- [![future_skills](https://skillicons.dev/icons?i=react,py,express,vue,vite,tensorflow,sequelize,rust,ruby,redis,rails,postman,postgres,nginx,neovim,lua,less,htmx,graphql,godot,flutter,firebase,fastapi,electron,dotnet,django,dart,androidstudio)](https://skillicons.dev)<br> -->
 
