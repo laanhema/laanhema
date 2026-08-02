@@ -1,16 +1,16 @@
 ## Hi there, I'm Lauri! 👋 I am:
 
-- Second year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
+- Third year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
 - Linux native - daily driving Fedora 44 Workstation with i3wm
 - Ambitious developer who is interested in Full Stack web-development, Agentic AI tools & databases !
 
 ## My projects 😎
 
+- [**Distill Design Scraper**](https://github.com/laanhema/distill-design-scraper) - Next.js, React, Playwright, Sharp, Culori, Zod
 - [**GymBro App**](https://github.com/jamktiko/gymbroapp) - Angular + Ionic Frontend, Express REST API Backend, MongoDB - [link to .apk](https://staticwebsiteforgymbroapp.s3.eu-north-1.amazonaws.com/index.html)
 - [**Tralla**](https://github.com/laanhema/tralla) - Angular, Taiga UI, NgRx SignalStore
 - [**Froots Smoothie App**](https://github.com/jamktiko/smoothie_testi) - Svelte, TypeScript, Tailwind - [link to website](https://froots-smoothies.netlify.app/)
 - [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
-- [**BandBuddy**](https://github.com/laanhema/bandbuddy) - Java
 
 ## My skills ⚡
 
@@ -21,15 +21,15 @@
 - _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
 - _Vitest, Cypress, GitHub Actions, Angular, MongoDB, Express_
 
-## Editors 🔧
+## Used IDEs 🔧
 
 [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)<br>
 
 - _Visual Studio Code (mainly using this), Visual Studio_
 
-## Operating systems ⚙️
+<!-- ## Operating systems ⚙️ -->
 
-[![Operating systems](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev)
+<!-- [![Operating systems](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev) -->
 
 ## Achieved badges 🏅
 
@@ -39,7 +39,6 @@
 
 - **React**
 - **Python**
-- **Agentic Software Development**
 <!-- - **Less**
 - **Taiga UI** -->
 <!-- - **Vitest & Cypress for testing** -->
