@@ -1,4 +1,4 @@
-## Hi there, I'm Lauri! 👋 I am:
+## Hi there, I'm Lauri! 👋
 
 - Third year student at JAMK University of Applied Sciences - studying to become a Bachelor in Business Information Technology
 - Linux native - daily driving Fedora 44 Workstation with i3wm
@@ -12,7 +12,7 @@
 - [**Froots Smoothie App**](https://github.com/jamktiko/smoothie_testi) - Svelte, TypeScript, Tailwind - [link to website](https://froots-smoothies.netlify.app/)
 - [**EverythingShop**](https://github.com/laanhema/jamk-s2024-web-perusteet-lopputyo) - Vanilla HTML CSS, Responsive design - [link to website](https://everythingshop.surge.sh/)
 
-## My skills ⚡
+## Skills ⚡
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb,express&perline=6)](https://skillicons.dev)<br>
 
@@ -23,15 +23,15 @@
 
 ## Used IDEs 🔧
 
-[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)<br>
+[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,neovim)](https://skillicons.dev)<br>
 
-- _Visual Studio Code (mainly using this), Visual Studio_
+- _Visual Studio Code (mainly using this), Visual Studio, Neovim_
 
 <!-- ## Operating systems ⚙️ -->
 
 <!-- [![Operating systems](https://skillicons.dev/icons?i=windows,linux,apple)](https://skillicons.dev) -->
 
-## Achieved badges 🏅
+## AWS Competencies 🏅
 
 <img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations badge" width="100"/>
 
@@ -52,7 +52,7 @@ I would like to learn:
 <!-- - React -->
 <!-- - Python -->
 
-<!-- [![future_skills](https://skillicons.dev/icons?i=react,py,express,vue,vite,tensorflow,sequelize,rust,ruby,redis,rails,postman,postgres,nginx,neovim,lua,less,htmx,graphql,godot,flutter,firebase,fastapi,electron,dotnet,django,dart,androidstudio)](https://skillicons.dev)<br> -->
+<!-- [![future_skills](https://skillicons.dev/icons?i=react,py,express,vue,vite,tensorflow,sequelize,rust,ruby,redis,rails,postman,postgres,nginx,neovim,lua,less,htmx,graphql,godot,flutter,firebase,fastapi,electron,dotnet,django,dart,androidstudio,nix)](https://skillicons.dev)<br> -->
 
 <!-- - Neovim 😱 (learning Vim motions could be useful) -->
 
