@@ -14,18 +14,31 @@
 
 ## Skills ⚡
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,regex,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,bootstrap,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb,express&perline=6)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,java,python,html,css,js,npm,nodejs,ts,svelte,git,aws,linux,tailwind,react,vercel,netlify,mysql,cypress,vitest,githubactions,angular,mongodb,express&perline=6)](https://skillicons.dev)<br>
 
-- _C#, Java, Regex, HTML, CSS, JavaScript_
+- _C#, Java, Python, HTML, CSS, JavaScript_
 - _npm, node.js, TypeScript, Svelte, Git, AWS_
-- _Linux, Tailwind, Bootstrap, Vercel, Netlify, MySQL_
+- _Linux, Tailwind, React, Vercel, Netlify, MySQL_
 - _Vitest, Cypress, GitHub Actions, Angular, MongoDB, Express_
 
 ## Used IDEs 🔧
 
-[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,neovim)](https://skillicons.dev)<br>
+<!-- [![Editors](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<br>
+<a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">
+<img src="./icons/gemini-svg.svg" width="48" height="48" style="vertical-align: middle; margin-left: 2px;" alt="Claude Code" />
+</a> -->
+<p align="left">
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+  </a>
+  <!-- Claude Code -->
+  <a href="https://claude.ai/code" target="_blank" rel="noreferrer">
+    <img src="./icons/claude-code-dark-2.svg" height="48" alt="Claude Code" />
+  </a>
+</p>
 
-- _Visual Studio Code (mainly using this), Visual Studio, Neovim_
+- _Visual Studio Code, Claude Code_
 
 <!-- ## Operating systems ⚙️ -->
 

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- tandpfun dark squircle background -->
+  <rect width="256" height="256" rx="60" fill="#242938" />
+  
+  <!-- Claude Code Mascot (Terracotta #D97757) with cut-out eyes -->
+  <path fill="#D97757" fill-rule="evenodd" d="
+    M 68 74 
+    H 188 
+    V 110 
+    H 212 
+    V 134 
+    H 188 
+    V 158 
+    H 176 
+    V 182 
+    H 164 
+    V 158 
+    H 152 
+    V 182 
+    H 140 
+    V 158 
+    H 116 
+    V 182 
+    H 104 
+    V 158 
+    H 92 
+    V 182 
+    H 80 
+    V 158 
+    H 68 
+    V 134 
+    H 44 
+    V 110 
+    H 68 
+    Z
+    M 92 86 
+    H 104 
+    V 110 
+    H 92 
+    Z
+    M 152 86 
+    H 164 
+    V 110 
+    H 152 
+    Z
+  " />
+</svg>
