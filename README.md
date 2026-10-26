@@ -33,21 +33,23 @@
 
 ## AWS Competencies 🏅
 
-<img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations badge" width="100"/>
+<!-- <img src="aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations badge" width="100"/> -->
+<img src="aws-academy-graduate-cloud-foundations-training-badge.png" alt="AWS Academy Cloud Foundations Training Badge" width="100"/>
 
-## I'm currently learning... 🧐
+<!-- ## I'm currently learning... 🧐
 
 - **React**
-- **Python**
+- **Python** -->
+
 <!-- - **Less**
 - **Taiga UI** -->
 <!-- - **Vitest & Cypress for testing** -->
 
 <!-- [![Used OS](https://skillicons.dev/icons?i=angular,mysql,githubactions,cypress,vitest,aws)](https://skillicons.dev) -->
 
-I would like to learn:
+<!-- I would like to learn:
 
-- Kubernetes
+- Kubernetes -->
 
 <!-- - React -->
 <!-- - Python -->
