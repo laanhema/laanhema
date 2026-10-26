@@ -29,13 +29,9 @@
 </a> -->
 <p align="left">
   <!-- VS Code -->
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
-  </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" /></a>
   <!-- Claude Code -->
-  <a href="https://claude.ai/code" target="_blank" rel="noreferrer">
-    <img src="./icons/claude-code-dark-2.svg" height="48" alt="Claude Code" />
-  </a>
+  <a href="https://claude.ai/code" target="_blank" rel="noreferrer"><img src="./icons/claude-code-dark-2.svg" height="48" alt="Claude Code" /></a>
 </p>
 
 - _Visual Studio Code, Claude Code_
